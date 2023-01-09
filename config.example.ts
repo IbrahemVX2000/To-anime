@@ -1,6 +1,6 @@
 const config: Config = {
     mode: 'WORLD', // 'CHINA' | 'WORLD'
-    botToken: 'put_your_token_here',
+    botToken: '5789922931:AAGCpBO2aP8QIL7YdrfW4DJQbcG9M3DubJ4',
     keepFiles: {
         compared: true,
         input: true,
@@ -8,13 +8,13 @@ const config: Config = {
         video: true,
     },
     messages: {
-        blocked: 'The Chinese website has blocked the bot, too bad 🤷‍♂️',
+        blocked: 'الموقع الصيني حظرنا خخخ♂️',
         bye:
-            'Thank you for using this bot 👍\n' +
-            'Please rate and fork it on [Github](https://github.com/lmcsu/qq-neural-anime-tg) ♥️',
-        hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art',
-        media: '@qq\\_neural\\_anime\\_bot',
-        received: 'Photo has been received, please wait',
+            ' شكرا لاستخدام البون 👍\n' +
+            '',
+        hello: 'هلا والله ارسلي الصورة حتى احولها الك',
+        media: 'تريد تراسلني؟ تعال فيسبوك (طماطه بالدهن)',
+        received: 'اصبر شويه',
     },
     sendMedia: {
         compared: true,
